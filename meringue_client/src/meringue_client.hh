@@ -1,0 +1,3 @@
+#ifndef _MERINGUE_CLIENT_HH_
+#define _MERINGUE_CLIENT_HH_
+#endif // _MERINGUE_CLIENT_HH_
